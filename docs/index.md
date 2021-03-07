@@ -1,6 +1,6 @@
 ## POLÍTICA DE PRIVACIDADE
 
-O StudyPlan Maker usa sua conta Apple iCloud para armazenar os planos de estudos que você criou com o app, isso significa que apenas você tem acesso ao conteúdo que cria no app, a Apple não dá aos desenvolvedores acesso aos dados do usuário armazenados no iCloud. O usuário pode optar por manter os seus dados apenas localmente, nesse caso, não serão utilizados os serviços do Apple iCloud. Para isso, deve acessar o menu “Ajustes” do app e desativar a opção de backup.
+O StudyPlan Maker usa sua conta Apple iCloud para armazenar os planos de estudos que você criou com o app, isso significa que apenas você tem acesso ao conteúdo que cria no app, a Apple não dá aos desenvolvedores acesso aos dados do usuário armazenados no iCloud. O usuário pode optar por manter os seus dados apenas localmente, nesse caso, não serão utilizados os serviços do Apple iCloud. Para isso, você deve acessar o menu “Ajustes” do app e desativar a opção de backup.
 
 Nós não coletamos e não utilizamos dados pessoais que pertencem àqueles que utilizam nosso aplicativo e nem realizamos o compartilhamento de dados pessoais com terceiros.
 
@@ -40,4 +40,5 @@ Ao usar nosso aplicativo ou site, você concorda com nossa política de privacid
 ### Como entrar em contato conosco
 
 Para esclarecer quaisquer dúvidas sobre esta Política de Privacidade ou sobre os dados pessoais que tratamos, entre em contato pelo canal mencionado abaixo:
+
 E-mail: studyplanmaker@outlook.com
