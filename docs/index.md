@@ -40,7 +40,7 @@ Sem prejuízo de qualquer outra via de recurso administrativo ou judicial, os ti
 ### Como entrar em contato conosco
 
 Para esclarecer quaisquer dúvidas sobre esta Política de Privacidade ou sobre os dados pessoais que tratamos, entre em contato pelo canal mencionado abaixo:
-E-mail: [contact support] (studyplanmaker@outlook.com)
+E-mail: [CONTATE-NOS](studyplanmaker@outlook.com)
 
 
 ```markdown
