@@ -40,7 +40,7 @@ Sem prejuízo de qualquer outra via de recurso administrativo ou judicial, os ti
 ### Como entrar em contato conosco
 
 Para esclarecer quaisquer dúvidas sobre esta Política de Privacidade ou sobre os dados pessoais que tratamos, entre em contato pelo canal mencionado abaixo:
-E-mail: [CONTATE-NOS](studyplanmaker@outlook.com)
+E-mail: (studyplanmaker@outlook.com)
 
 
 ```markdown
@@ -60,7 +60,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
