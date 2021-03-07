@@ -40,7 +40,7 @@ Sem prejuízo de qualquer outra via de recurso administrativo ou judicial, os ti
 ### Como entrar em contato conosco
 
 Para esclarecer quaisquer dúvidas sobre esta Política de Privacidade ou sobre os dados pessoais que tratamos, entre em contato pelo canal mencionado abaixo:
-E-mail: studyplanmaker@outlook.com
+E-mail: [contact support] (studyplanmaker@outlook.com)
 
 
 ```markdown
@@ -60,12 +60,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/santanarod/studyplanmaker/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
